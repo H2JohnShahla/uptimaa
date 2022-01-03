@@ -78,7 +78,7 @@
     "url": "https://feelingsbotv2.h2johnshahla.repl.co",
     "icon": "https://favicons.githubusercontent.com/feelingsbotv2.h2johnshahla.repl.co",
     "slug": "feelings",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -90,6 +90,7 @@
     "timeMonth": 444,
     "timeYear": 390,
     "dailyMinutesDown": {
+      "2022-01-03": 0,
       "2021-12-06": 18,
       "2021-11-29": 42
     }
